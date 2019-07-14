@@ -1,2 +1,2 @@
-# PythonSelenium-autotests
-PythonSelenium autotests
+# Python&Selenium-autotests
+Python&Selenium autotests
